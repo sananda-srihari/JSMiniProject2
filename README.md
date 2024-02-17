@@ -10,18 +10,6 @@ Add Book: Users can add books to the library.
 Remove Book: Users can remove books from the library.
 Search Book: Users can search for books by title or author.
 User Interface: A simple and intuitive user interface.
+
 Technologies Used
 JavaScript: The core programming language used.
-Getting Started
-To run this application locally, follow these steps:
-
-Clone this repository: git clone https://github.com/your-username/library-book-management.git
-Open the index.html file in your browser.
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-Fork this repository.
-Create a new branch: git checkout -b feature-name
-Make your changes and commit them: git commit -m "Add feature"
-Push to the branch: git push origin feature-name
-Submit a pull request.
